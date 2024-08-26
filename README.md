@@ -15,7 +15,7 @@ The package processamento_imagem is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dio-desafio-pacote-processamento-imagem
+Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ```bash
 pip install img_process
